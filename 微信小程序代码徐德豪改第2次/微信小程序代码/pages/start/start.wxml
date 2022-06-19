@@ -1,0 +1,12 @@
+<!--start.wxml-->
+
+
+
+<view>
+<view class="a">开启我们的养花之旅吧！</view>
+<image class="bb" src="/start.jpg">
+</image>
+</view>
+
+
+

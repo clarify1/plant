@@ -1,0 +1,44 @@
+/* start.wxss */
+
+
+.btn1{
+  width: 60%;
+  border-radius: 20px;
+  border:black;
+  color:#325478;
+  margin-top: 100px;
+  
+}
+.btn2{
+  width: 60%;
+  border-radius: 20px;
+  border:black;
+  color:#325478;
+  margin-top: 10px;
+  
+}
+.btn3{
+  width: 60%;
+  border-radius: 20px;
+  border:black;
+  color:#325478;
+  margin-top: 100px;
+  
+}
+.bb{
+  margin-top:auto;
+  height: 600px;
+  z-index: -1;
+}
+page{
+  background-color: #86cfc9
+}
+page{
+  height:100%;
+}
+.a{
+  text-align: center;
+ background-image: url(https://img1.baidu.com/it/u=2712906872,1213684353&fm=26&fmt=auto);
+ color: rgb(3, 3, 3);
+}
+

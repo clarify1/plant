@@ -1,0 +1,16 @@
+<view class="a">
+  湿度小助手
+</view> 
+<view class="content">        
+	
+	<image class='background' src="/flower.jpg" mode="aspectFill"></image>
+	
+</view>
+
+<input placeholder='输入获取的湿度' bindinput='getNum1'></input>
+<button bindtap='add' type="primary">获取湿度</button>
+<view wx:if="{{m>0}}" class="sstyle">你得到的湿度是{{result}}</view>                   
+<view wx:if="{{result<30}}" class="sstyle">湿度过低，该浇水啦</view>
+
+
+

@@ -1,0 +1,16 @@
+<view class="a">
+  温度小助手
+</view> 
+	<image class='background' src="/s.jpg" mode="aspectFill"></image>
+     
+<input placeholder='请输入检测到温度' bindinput='getNum2'></input>
+<button bindtap='add' type="primary">获取温度</button>
+<view wx:if="{{m>0}}"class="style"> 你得到的温度是{{result}}℃</view>                    
+<view wx:if="{{result>22}}" class="style">大于设定的温度22℃，该降温啦</view> 
+
+
+
+
+
+  
+

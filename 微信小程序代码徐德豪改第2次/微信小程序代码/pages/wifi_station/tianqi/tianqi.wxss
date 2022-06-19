@@ -1,0 +1,23 @@
+
+
+.style{
+
+  margin: 100rpx;
+  padding: 70rpx;
+  font-size:30px;
+  color:#044d88
+}
+
+.background {
+  width: 120%;
+  height: 100%;
+  position:fixed; 
+  background-size:120% 120%;
+  z-index: -1;
+}
+
+.a{
+  text-align: center;
+ background-image: url(https://img1.baidu.com/it/u=2712906872,1213684353&fm=26&fmt=auto);
+ color: rgb(3, 3, 3);
+}

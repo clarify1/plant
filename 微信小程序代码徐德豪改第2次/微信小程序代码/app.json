@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi",
+    "pages/wifi_station/a",
+    "pages/wifi_station/tianqi/knowledge"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00FFFF",
+    "navigationBarTitleText": "智能养花系统",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": false,
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [{
+        "pagePath": "pages/start/start",
+        "text": "首页",
+        "iconPath": "icon/home.png",
+        "selectedIconPath": "icon/home.png"
+      },
+      {
+        "pagePath": "pages/wifi_station/tianqi/tianqi",
+        "text": "温度",
+        "iconPath": "icon/image.png",
+        "selectedIconPath": "icon/image.png"
+      },
+      {
+        "pagePath": "pages/wifi_station/a",
+        "text": "湿度",
+        "iconPath": "icon/play.png",
+        "selectedIconPath": "icon/play.png"
+      },
+      {
+        "pagePath": "pages/wifi_station/tianqi/knowledge",
+        "text": "小常识",
+        "iconPath": "icon/search.png",
+        "selectedIconPath": "icon/search.png"
+      }],
+    "color":"#000999"
+  }
+}

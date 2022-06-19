@@ -1,0 +1,9 @@
+// start.js
+
+Page({
+    data: {
+
+    },
+   
+ 
+})

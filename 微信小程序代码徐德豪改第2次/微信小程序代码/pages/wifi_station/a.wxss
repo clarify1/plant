@@ -1,0 +1,21 @@
+.sstyle{
+
+  margin: 100rpx;
+  padding: 70rpx;
+  font-size:30px;
+  color:#d7ee08
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+  position:fixed; 
+  background-size:100% 100%;
+  z-index: -1;
+}
+
+.a{
+  text-align: center;
+ background-image: url(https://img1.baidu.com/it/u=2712906872,1213684353&fm=26&fmt=auto);
+ color: rgb(247, 9, 9);
+}
